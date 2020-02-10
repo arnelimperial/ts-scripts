@@ -14,7 +14,8 @@ $ npm install
 
 | Exercise Item & Directories         | Description                                          |
 |-------------------------------------|------------------------------------------------------|
-|                                     |                                                      | 
+| Data Type CheatSheet                |Using Interface and Objects in Typescript             | 
+
 
 
 ---
